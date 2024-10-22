@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "985133492222",
+    "project_id": "fdtcg-chat-app-with-firebase",
+    "storage_bucket": "fdtcg-chat-app-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985133492222:android:e673fece3b0d2ccbde42af",
+        "android_client_info": {
+          "package_name": "com.blogspot.lightrao.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChITyyXsWxM1AkOo_S-41WBbiDoLHvFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985133492222:android:9da376d364e7807ede42af",
+        "android_client_info": {
+          "package_name": "com.blogspot.lightrao.fdtcg_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChITyyXsWxM1AkOo_S-41WBbiDoLHvFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985133492222:android:c23a8d9d06133224de42af",
+        "android_client_info": {
+          "package_name": "com.blogspot.lightrao.fdtcg_chat_app_with_fi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBChITyyXsWxM1AkOo_S-41WBbiDoLHvFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
