@@ -1,1 +1,54 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"fdtcg-chat-app-with-firebase","appId":"1:985133492222:android:9da376d364e7807ede42af","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"fdtcg-chat-app-with-firebase","appId":"1:985133492222:ios:111c9d8a8d7a2ef9de42af","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"fdtcg-chat-app-with-firebase","appId":"1:985133492222:ios:111c9d8a8d7a2ef9de42af","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"fdtcg-chat-app-with-firebase","configurations":{"android":"1:985133492222:android:9da376d364e7807ede42af","ios":"1:985133492222:ios:111c9d8a8d7a2ef9de42af","macos":"1:985133492222:ios:111c9d8a8d7a2ef9de42af","web":"1:985133492222:web:50738a269574f49cde42af","windows":"1:985133492222:web:c21c34e247b6e222de42af"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "fdtcg-chat-app-with-firebase",
+          "appId": "1:985133492222:android:9da376d364e7807ede42af",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "fdtcg-chat-app-with-firebase",
+          "appId": "1:985133492222:ios:111c9d8a8d7a2ef9de42af",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "fdtcg-chat-app-with-firebase",
+          "appId": "1:985133492222:ios:111c9d8a8d7a2ef9de42af",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "fdtcg-chat-app-with-firebase",
+          "configurations": {
+            "android": "1:985133492222:android:9da376d364e7807ede42af",
+            "ios": "1:985133492222:ios:111c9d8a8d7a2ef9de42af",
+            "macos": "1:985133492222:ios:111c9d8a8d7a2ef9de42af",
+            "web": "1:985133492222:web:50738a269574f49cde42af",
+            "windows": "1:985133492222:web:c21c34e247b6e222de42af"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
